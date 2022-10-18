@@ -7,13 +7,13 @@ function App() {
     <div className="App">
       <div className="container">
       
-      <Weather defaultCity="Galway" />
+      <Weather defaultCity="Kyiv" />
       <footer> This project was coded by {" "} 
-      <a href="SarahClarke.io" target="_blank" rel="noopener noreferrer">
-        Sarah Clarke
+      <a href="https://www.facebook.com/profile.php?id=100001676673228" target="_blank" rel="noopener noreferrer">
+        Lobur Mariia
       </a>{" "}
       and is {" "}
-      <a href="https://github.com/ClarSar/react-weather-app-2.0.git" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/mari4ka55/200react" target="_blank" rel="noopener noreferrer">
         Open Sourced on Github</a>
       </footer>
     </div>
