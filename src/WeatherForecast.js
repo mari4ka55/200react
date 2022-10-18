@@ -43,7 +43,7 @@ if (loaded) {
 </div>
 );
 } else {
-let apiKey= "749d11da7cc4bf5dcb36a5fdf40ecee1";
+let apiKey= "34c4a44a8566db373a4cfc3375714c37";
 let lat= props.coordinates.lat;
 let lon= props.coordinates.lon;
 let apiUrl=`https://api.openweathermap.org/data/2.5/onecall?lat=${lat}&lon=${lon}&appid=${apiKey}&units=metric`
